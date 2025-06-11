@@ -1,6 +1,7 @@
 # 📰 Sistema de Notícias - Java Swing
 
-Este é um projeto desenvolvido em **Java** com **Swing**, que consome a **API de notícias do IBGE** para permitir a busca, visualização e gerenciamento de notícias por meio de uma interface gráfica intuitiva e interativa.
+Este é um projeto desenvolvido em **Java** com **Swing**, que consome a **API de notícias do IBGE** para permitir a busca, visualização e gerenciamento de notícias por meio de uma interface gráfica intuitiva e interativa.  
+Todas as listas de notícias (favoritas, lidas e "ler depois") são **salvas localmente em arquivos JSON**, garantindo persistência entre as execuções do sistema.
 
 ---
 
